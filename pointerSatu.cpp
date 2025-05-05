@@ -21,6 +21,7 @@ cout<<" Nilai dari c : "<<*c<<endl;
  int f=5;
  int g=f;
  
+ 
 
 
 };
